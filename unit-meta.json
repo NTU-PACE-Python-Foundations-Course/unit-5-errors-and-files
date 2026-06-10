@@ -1,0 +1,17 @@
+{
+  "id": "unit-5",
+  "slug": "unit-5-errors-and-files",
+  "title": "Robust Code \u2014 Errors & Files",
+  "description": "try/except patterns, reading and writing CSV files, and the monthly P&L worked example.",
+  "learning_objectives": [
+    "Use try/except to handle errors without crashing",
+    "Read a CSV file into a list of dictionaries using csv.DictReader",
+    "Write a complete data pipeline: read, process, flag, report"
+  ],
+  "original_video": "V5 \u2014 Professional Python: Errors, Files & the Path Forward",
+  "curated_videos": [
+    "Corey Schafer: Python Tutorial \u2014 File Objects",
+    "Corey Schafer: Python Tutorial \u2014 CSV Module"
+  ],
+  "codespace_repo": "unit-5-errors-and-files"
+}
