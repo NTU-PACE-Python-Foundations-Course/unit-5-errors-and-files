@@ -1,6 +1,6 @@
 # Unit 5: Robust Code — Errors & Files
 
-> **Python Fundamentals** | NTU Academy for Professional and Continuing Education
+> **Python Fundamentals**
 
 try/except patterns, reading and writing CSV files, and the monthly P&L worked example.
 
@@ -29,5 +29,4 @@ By the end of this unit you will be able to:
 
 ## Course
 
-Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course —
-NTU Academy for Professional and Continuing Education.
+Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course.
