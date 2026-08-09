@@ -8,10 +8,27 @@
     "Read a CSV file into a list of dictionaries using csv.DictReader",
     "Write a complete data pipeline: read, process, flag, report"
   ],
-  "original_video": "V5 \u2014 Professional Python: Errors, Files & the Path Forward",
-  "curated_videos": [
-    "Corey Schafer: Python Tutorial \u2014 File Objects",
-    "Corey Schafer: Python Tutorial \u2014 CSV Module"
+  "codespace_repo": "unit-5-errors-and-files",
+  "videos": [
+    {
+      "name": "Professional Error Handling in Python",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757610",
+      "duration_min": 15
+    },
+    {
+      "name": "File IO Basics and PEP 8 Essentials",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757642",
+      "duration_min": 4
+    }
   ],
-  "codespace_repo": "unit-5-errors-and-files"
+  "curated_videos": [
+    {
+      "name": "C6 \u2014 Exception Handling",
+      "type": "youtube",
+      "url": "https://youtu.be/NIWwJbo-9_8",
+      "duration_min": 15
+    }
+  ]
 }
