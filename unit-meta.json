@@ -1,7 +1,7 @@
 {
   "id": "unit-5",
   "slug": "unit-5-errors-and-files",
-  "title": "Robust Code \u2014 Errors & Files",
+  "title": "Robust Code — Errors & Files",
   "description": "try/except patterns, reading and writing CSV files, and the monthly P&L worked example.",
   "learning_objectives": [
     "Use try/except to handle errors without crashing",
@@ -25,7 +25,7 @@
   ],
   "curated_videos": [
     {
-      "name": "C6 \u2014 Exception Handling",
+      "name": "C8 — Exception Handling",
       "type": "youtube",
       "url": "https://youtu.be/NIWwJbo-9_8",
       "duration_min": 15
